@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emeline-caruana
 - 👀 I’m interested in NLP and Machine Learning
-- 🌱 I’m currently learning Computational Linguistics in France
+- 🌱 I’m currently a machine learning engineer in France
 - 📫 How to reach me : emeline.caruana@gmail.com
 
 <!---
